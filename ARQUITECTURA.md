@@ -4,7 +4,7 @@ Este documento organiza los distintos niveles de abstracción en arquitectura de
 
 ---
 
-## 1. Estilo Arquitectónico (deployment / comunicación)
+## 1. [[Fundamentos de la Arquitectura de Software - Introduction#3. ¿Qué compone la Arquitectura de Software?]] Arquitectónico (deployment / comunicación)
 
 Define **cómo se empaqueta, despliega y comunica** el sistema completo.
 
@@ -149,14 +149,14 @@ Api → Application ← Infrastructure
 
 Resuelven un problema específico dentro de la estructura del sistema. Operan dentro de la arquitectura interna.
 
-| Patrón | Problema que resuelve | ¿Con qué arquitectura se lleva? |
-|---|---|---|
-| **CQRS** | Separar modelos de lectura (queries) de escritura (commands) | Cualquiera (Hexagonal + CQRS es muy común) |
-| **Event Sourcing** | Almacenar el estado como secuencia de eventos, no como snapshot | Cualquiera (especialmente útil con EDA + CQRS) |
-| **Saga** | Coordinar transacciones distribuidas entre microservicios | Microservicios (orquestada o coreografiada) |
-| **Repository** | Abstraer el almacenamiento (parece una colección en memoria) | Cualquiera (Layered, Hexagonal, etc.) |
-| **Unit of Work** | Agrupar varias operaciones en una sola transacción | Cualquiera |
-| **Circuit Breaker** | Prevenir fallos en cascada cuando un servicio externo falla; abre el circuito tras umbral de errores y rechaza llamadas hasta recuperación | Microservicios, EDA |
+| Patrón              | Problema que resuelve                                                                                                                      | ¿Con qué arquitectura se lleva?                |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------- |
+| **CQRS**            | Separar modelos de lectura (queries) de escritura (commands)                                                                               | Cualquiera (Hexagonal + CQRS es muy común)     |
+| **Event Sourcing**  | Almacenar el estado como secuencia de eventos, no como snapshot                                                                            | Cualquiera (especialmente útil con EDA + CQRS) |
+| **Saga**            | Coordinar transacciones distribuidas entre microservicios                                                                                  | Microservicios (orquestada o coreografiada)    |
+| **Repository**      | Abstraer el almacenamiento (parece una colección en memoria)                                                                               | Cualquiera (Layered, Hexagonal, etc.)          |
+| **Unit of Work**    | Agrupar varias operaciones en una sola transacción                                                                                         | Cualquiera                                     |
+| **Circuit Breaker** | Prevenir fallos en cascada cuando un servicio externo falla; abre el circuito tras umbral de errores y rechaza llamadas hasta recuperación | Microservicios, EDA                            |
 
 ### ¿Qué es comparable en este nivel?
 
