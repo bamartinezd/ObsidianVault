@@ -1619,6 +1619,8 @@ Esta sección detalla de forma cronológica todas las grandes características a
 | **.NET 7** | C# 11.0 | 2022 | Raw String Literals, Generic Math, List Patterns |
 | **.NET 8 (LTS)** | C# 12.0 | 2023 | Primary Constructors en clases, Collection Expressions `[...]` |
 | **.NET 9** | C# 13.0 | 2024 | `System.Threading.Lock`, `params` con `Span<T>`, `CountBy`/`AggregateBy` |
+| **.NET 10** | C# 14 | 2025 | `field` keyword, extension members, null conditional assign, improves in lambda and constructors |
+| **.NET 11** | C# 15 | 2026 | Collection expression arguments, Union types, Closed hierarchies, Extension indexers, Labeled break and continue, Non-virtual static interface members on older runtimes, Memory safety (preview feature) |
 
 ---
 
