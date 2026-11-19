@@ -47,12 +47,12 @@ Extraído del contenido de la página (no fue necesario usar Playwright). Últim
   - [x] Mantener calidad de datos, privacidad y gobernanza, y adaptar la arquitectura de datos a medida que evolucionan la aplicación y sus sistemas de IA.
 
 - [x] **2.3 Diseño de arquitecturas de sistemas** — Comprender los componentes de software y las necesidades de la aplicación ayuda a diseñar la arquitectura correcta y elegir la pila tecnológica, y evolucionarlas con el tiempo.
-  - [ ] Estudiar descomposición del sistema, ubicación del estado, elección de plataforma y compromisos entre monolito y microservicios.
-  - [ ] Evaluar opciones tecnológicas mediante experimentos y evolucionar las arquitecturas desde el prototipo hasta producción y escala.
+  - [x] Estudiar descomposición del sistema, ubicación del estado, elección de plataforma y compromisos entre monolito y microservicios.
+  - [x] Evaluar opciones tecnológicas mediante  (I+D, POC, Pragmatismo) y evolucionar las arquitecturas desde el prototipo hasta producción y escala.
 
-- [ ] **2.4 Hacer los sistemas seguros y confiables** — Saber probar el sistema, diseñar ante fallos e incorporar seguridad desde el inicio ayuda a crear software correcto y con menos vulnerabilidades.
-  - [ ] Desarrollar estrategias de pruebas con pruebas unitarias y de integración adecuadas.
-  - [ ] Diseñar ante fallos con degradación elegante y un radio de impacto limitado.
+- [x] **2.4 Hacer los sistemas seguros y confiables** — Saber probar el sistema, diseñar ante fallos e incorporar seguridad desde el inicio ayuda a crear software correcto y con menos vulnerabilidades.
+  - [x] Desarrollar estrategias de pruebas con pruebas unitarias y de integración adecuadas(Mutation checks).
+  - [x] Diseñar ante fallos con degradación elegante y un radio de impacto limitado.
   - [ ] Aplicar prácticas de seguridad desde etapas tempranas, usando herramientas de IA para revisar código, dependencias y configuración en la nube.
 
 - [ ] **2.5 Escalado y operación en producción** — Saber desplegar, operar y escalar software ayuda a atender usuarios reales de forma confiable y mantener el sistema a medida que crece.
