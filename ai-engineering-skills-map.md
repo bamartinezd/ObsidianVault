@@ -38,15 +38,15 @@ Extraído del contenido de la página (no fue necesario usar Playwright). Últim
 ### 02. Fundamentos de ingeniería de software
 *Comprender los fundamentos del software para orientar a los agentes de codificación hacia los compromisos adecuados de latencia, fiabilidad, mantenibilidad y costo para tu aplicación.*
 
-- [ ] **2.1 Construcción de aplicaciones full-stack** — Entender toda la pila de la aplicación ayuda a usar agentes de codificación en sistemas front-end y back-end y a tomar decisiones informadas.
-  - [ ] Aprender fundamentos de front-end y back-end: componentes de UI, APIs, autenticación, gestión de estado, persistencia de datos y seguridad.
-  - [ ] Construir en toda la pila con agentes de codificación comprendiendo cómo funciona cada capa.
+- [x] **2.1 Construcción de aplicaciones full-stack** — Entender toda la pila de la aplicación ayuda a usar agentes de codificación en sistemas front-end y back-end y a tomar decisiones informadas.
+  - [x] Aprender fundamentos de front-end y back-end: componentes de UI, APIs, autenticación, gestión de estado, persistencia de datos y seguridad.
+  - [x] Construir en toda la pila con agentes de codificación comprendiendo cómo funciona cada capa.
 
-- [ ] **2.2 Gestión de datos** — Saber gestionar datos ayuda a elegir modelos, almacenamiento e infraestructura adecuados, mantenerlos limpios, consistentes y cumplir normativas, y dar contexto relevante a los sistemas de IA.
-  - [ ] Aprender modelado de datos, patrones de acceso, tipos de almacenamiento, transacciones y concurrencia.
-  - [ ] Mantener calidad de datos, privacidad y gobernanza, y adaptar la arquitectura de datos a medida que evolucionan la aplicación y sus sistemas de IA.
+- [x] **2.2 Gestión de datos** — Saber gestionar datos ayuda a elegir modelos, almacenamiento e infraestructura adecuados, mantenerlos limpios, consistentes y cumplir normativas, y dar contexto relevante a los sistemas de IA.
+  - [x] Aprender modelado de datos, patrones de acceso, tipos de almacenamiento, transacciones y concurrencia.
+  - [x] Mantener calidad de datos, privacidad y gobernanza, y adaptar la arquitectura de datos a medida que evolucionan la aplicación y sus sistemas de IA.
 
-- [ ] **2.3 Diseño de arquitecturas de sistemas** — Comprender los componentes de software y las necesidades de la aplicación ayuda a diseñar la arquitectura correcta y elegir la pila tecnológica, y evolucionarlas con el tiempo.
+- [x] **2.3 Diseño de arquitecturas de sistemas** — Comprender los componentes de software y las necesidades de la aplicación ayuda a diseñar la arquitectura correcta y elegir la pila tecnológica, y evolucionarlas con el tiempo.
   - [ ] Estudiar descomposición del sistema, ubicación del estado, elección de plataforma y compromisos entre monolito y microservicios.
   - [ ] Evaluar opciones tecnológicas mediante experimentos y evolucionar las arquitecturas desde el prototipo hasta producción y escala.
 
