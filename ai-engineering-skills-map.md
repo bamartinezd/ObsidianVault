@@ -53,7 +53,7 @@ Extraído del contenido de la página (no fue necesario usar Playwright). Últim
 - [x] **2.4 Hacer los sistemas seguros y confiables** — Saber probar el sistema, diseñar ante fallos e incorporar seguridad desde el inicio ayuda a crear software correcto y con menos vulnerabilidades.
   - [x] Desarrollar estrategias de pruebas con pruebas unitarias y de integración adecuadas(Mutation checks).
   - [x] Diseñar ante fallos con degradación elegante y un radio de impacto limitado.
-  - [ ] Aplicar prácticas de seguridad desde etapas tempranas, usando herramientas de IA para revisar código, dependencias y configuración en la nube.
+  - [x] Aplicar prácticas de seguridad desde etapas tempranas, usando herramientas de IA para revisar código, dependencias y configuración en la nube.
 
 - [ ] **2.5 Escalado y operación en producción** — Saber desplegar, operar y escalar software ayuda a atender usuarios reales de forma confiable y mantener el sistema a medida que crece.
   - [ ] Configurar entornos de despliegue, elegir estrategias de lanzamiento y automatizar despliegues con CI/CD.
