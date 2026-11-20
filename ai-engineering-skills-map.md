@@ -58,14 +58,14 @@ Extraído del contenido de la página (no fue necesario usar Playwright). Últim
 - [ ] **2.5 Escalado y operación en producción** — Saber desplegar, operar y escalar software ayuda a atender usuarios reales de forma confiable y mantener el sistema a medida que crece.
   - [ ] Configurar entornos de despliegue, elegir estrategias de lanzamiento y automatizar despliegues con CI/CD.
   - [ ] Practicar observabilidad, alertas y respuesta a incidentes, y escalar con balanceo de carga, particionamiento (*sharding*) y replicación.
-  - [ ] Usar control de versiones y revisiones de código, mantener dependencias y gestionar la deuda técnica.
+  - [x] Usar control de versiones y revisiones de código, mantener dependencias y gestionar la deuda técnica.
 
 ### 03. Uso de agentes de codificación
 *Saber personalizar, dirigir y orquestar agentes de codificación para optimizar el flujo de desarrollo manteniendo el control sobre lo que se construye y su calidad.*
 
 - [ ] **3.1 Dirigir el flujo de trabajo** — Conducir los proyectos decidiendo estratégicamente cuánto esfuerzo dedicar a la planificación, la arquitectura y la delegación en agentes.
-  - [ ] Equilibrar velocidad, costo y riesgo técnico al dirigir el flujo de trabajo de codificación.
-  - [ ] Elegir estratégicamente cuánto tiempo y esfuerzo invertir en investigación, planificación, iteración y revisión, y cuánta autonomía otorgar a los agentes.
+  - [x] Equilibrar velocidad, costo y riesgo técnico al dirigir el flujo de trabajo de codificación.
+  - [x] Elegir estratégicamente cuánto tiempo y esfuerzo invertir en investigación, planificación, iteración y revisión (SDD), y cuánta autonomía otorgar a los agentes.
   - [ ] Planificar el trabajo definiendo objetivos finales claros y medibles, descomponiendo el trabajo en piezas verificables y creando artefactos de planificación.
 
 - [ ] **3.2 Habilitar la autonomía del agente** — Permitir que los agentes asuman trabajo de forma independiente manteniendo calidad y control.
