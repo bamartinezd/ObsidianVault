@@ -80,11 +80,11 @@ Extraído del contenido de la página (no fue necesario usar Playwright). Últim
 
 - [ ] **3.4 Personalizar el agente y su entorno** — Personalizar un agente y su entorno ayuda a proporcionarle el contexto y las herramientas que necesita para trabajar eficazmente.
   - [x] Configurar habilidades (*skills*), complementos (*plugins*), servidores MCP, *hooks*, herramientas y permisos del agente.
-  - [ ] Mantener contexto permanente del código, incluyendo supuestos arquitectónicos, convenciones y patrones de acceso a datos.
-  - [ ] Preservar el estado entre sesiones y agentes, capturar aprendizajes y eliminar la deuda técnica generada por los agentes.
+  - [x] Mantener contexto permanente del código, incluyendo supuestos arquitectónicos, convenciones y patrones de acceso a datos.
+  - [x] Preservar el estado entre sesiones y agentes, capturar aprendizajes y eliminar la deuda técnica generada por los agentes.
 
 - [ ] **3.5 Fundamentos de los agentes de codificación** — Comprender cómo funcionan los agentes de codificación ayuda a reconocer sus limitaciones y modos de fallo.
-  - [ ] Aprender cómo buscan en el código, gestionan el contexto, usan herramientas, interactúan con subagentes y cómo funciona el arnés (*harness*) del agente.
+  - [x] Aprender cómo buscan en el código, gestionan el contexto, usan herramientas, interactúan con subagentes y cómo funciona el arnés (*harness*) del agente.
   - [ ] Estudiar modos de fallo comunes (sobreingeniería, detenerse antes de alcanzar el objetivo, etc.) e intervenir cuando el agente se desvía.
 
 ### 04. Dar forma a la construcción (*Shaping the build*)
