@@ -78,22 +78,22 @@ Extraído del contenido de la página (no fue necesario usar Playwright). Últim
   - [x] Combinar pruebas automatizadas, revisión de código por agentes, auditorías de seguridad y arquitectura, y revisión humana cuando sea necesario.
   - [ ] Verificar despliegues y operacionalizar el monitoreo y la gestión de incidentes con agentes.
 
-- [ ] **3.4 Personalizar el agente y su entorno** — Personalizar un agente y su entorno ayuda a proporcionarle el contexto y las herramientas que necesita para trabajar eficazmente.
+- [x] **3.4 Personalizar el agente y su entorno** — Personalizar un agente y su entorno ayuda a proporcionarle el contexto y las herramientas que necesita para trabajar eficazmente.
   - [x] Configurar habilidades (*skills*), complementos (*plugins*), servidores MCP, *hooks*, herramientas y permisos del agente.
   - [x] Mantener contexto permanente del código, incluyendo supuestos arquitectónicos, convenciones y patrones de acceso a datos.
   - [x] Preservar el estado entre sesiones y agentes, capturar aprendizajes y eliminar la deuda técnica generada por los agentes.
 
-- [ ] **3.5 Fundamentos de los agentes de codificación** — Comprender cómo funcionan los agentes de codificación ayuda a reconocer sus limitaciones y modos de fallo.
+- [x] **3.5 Fundamentos de los agentes de codificación** — Comprender cómo funcionan los agentes de codificación ayuda a reconocer sus limitaciones y modos de fallo.
   - [x] Aprender cómo buscan en el código, gestionan el contexto, usan herramientas, interactúan con subagentes y cómo funciona el arnés (*harness*) del agente.
-  - [ ] Estudiar modos de fallo comunes (sobreingeniería, detenerse antes de alcanzar el objetivo, etc.) e intervenir cuando el agente se desvía.
+  - [x] Estudiar modos de fallo comunes (sobreingeniería, detenerse antes de alcanzar el objetivo, etc.) e intervenir cuando el agente se desvía.
 
 ### 04. Dar forma a la construcción (*Shaping the build*)
 *Asumir la responsabilidad de proyectos de principio a fin e impulsar ciclos rápidos de construcción para entregar valor real mediante buen criterio de producto, alta agencia y liderazgo transversal.*
 
 - [ ] **4.1 Impulsar el ciclo de construcción** — Mantener el desarrollo en movimiento usando cada iteración para aprender y reducir la incertidumbre.
-  - [ ] Pasar rápidamente de ideas a prototipos (MVP) y finalmente a sistemas en producción.
-  - [ ] Entregar en lotes pequeños y usar retroalimentación de usuarios o experimentos técnicos para guiar los siguientes pasos.
-  - [ ] Tomar decisiones basadas en el contexto del proyecto: visión del producto, viabilidad, riesgos, esfuerzo y presupuesto.
+  - [x] Pasar rápidamente de ideas a prototipos (MVP) y finalmente a sistemas en producción.
+  - [x] Entregar en lotes pequeños y usar retroalimentación de usuarios o experimentos técnicos para guiar los siguientes pasos.
+  - [x] Tomar decisiones basadas en el contexto del proyecto: visión del producto, viabilidad, riesgos, esfuerzo y presupuesto.
   - [ ] Definir métricas para medir e impulsar mejoras en el producto.
 
 - [ ] **4.2 Tomar decisiones de producto** — Desarrollar criterio de producto, negocio y empatía con el usuario ayuda a construir soluciones que satisfagan necesidades reales.
