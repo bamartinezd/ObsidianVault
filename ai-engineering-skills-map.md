@@ -63,23 +63,23 @@ Extraído del contenido de la página (no fue necesario usar Playwright). Últim
 ### 03. Uso de agentes de codificación
 *Saber personalizar, dirigir y orquestar agentes de codificación para optimizar el flujo de desarrollo manteniendo el control sobre lo que se construye y su calidad.*
 
-- [ ] **3.1 Dirigir el flujo de trabajo** — Conducir los proyectos decidiendo estratégicamente cuánto esfuerzo dedicar a la planificación, la arquitectura y la delegación en agentes.
+- [x] **3.1 Dirigir el flujo de trabajo** — Conducir los proyectos decidiendo estratégicamente cuánto esfuerzo dedicar a la planificación, la arquitectura y la delegación en agentes.
   - [x] Equilibrar velocidad, costo y riesgo técnico al dirigir el flujo de trabajo de codificación.
   - [x] Elegir estratégicamente cuánto tiempo y esfuerzo invertir en investigación, planificación, iteración y revisión (SDD), y cuánta autonomía otorgar a los agentes.
-  - [ ] Planificar el trabajo definiendo objetivos finales claros y medibles, descomponiendo el trabajo en piezas verificables y creando artefactos de planificación.
+  - [x] Planificar el trabajo definiendo objetivos finales claros y medibles, descomponiendo el trabajo en piezas verificables y creando artefactos de planificación.
 
-- [ ] **3.2 Habilitar la autonomía del agente** — Permitir que los agentes asuman trabajo de forma independiente manteniendo calidad y control.
-  - [ ] Elegir el nivel adecuado de autonomía para los agentes, desde una guía interactiva hasta la ejecución autónoma de tareas de larga duración.
-  - [ ] Escalar el trabajo autónomo gestionando el contexto, registrando aprendizajes clave y/u orquestando agentes en paralelo.
-  - [ ] Aplicar permisos y salvaguardas adecuados para limitar el riesgo de pérdida de datos, fugas u otros daños.
+- [x] **3.2 Habilitar la autonomía del agente** — Permitir que los agentes asuman trabajo de forma independiente manteniendo calidad y control.
+  - [x] Elegir el nivel adecuado de autonomía para los agentes, desde una guía interactiva hasta la ejecución autónoma de tareas de larga duración.
+  - [x] Escalar el trabajo autónomo gestionando el contexto, registrando aprendizajes clave y/u orquestando agentes en paralelo.
+  - [x] Aplicar permisos y salvaguardas adecuados para limitar el riesgo de pérdida de datos, fugas u otros daños.
 
 - [ ] **3.3 Revisar el trabajo** — Revisar el trabajo del agente garantiza que cumpla con los estándares funcionales, de comportamiento, seguridad y fiabilidad.
-  - [ ] Diseñar pruebas, validación, conjuntos de evaluación y análisis de errores adecuados a la tarea.
-  - [ ] Combinar pruebas automatizadas, revisión de código por agentes, auditorías de seguridad y arquitectura, y revisión humana cuando sea necesario.
+  - [x] Diseñar pruebas, validación, conjuntos de evaluación y análisis de errores adecuados a la tarea.
+  - [x] Combinar pruebas automatizadas, revisión de código por agentes, auditorías de seguridad y arquitectura, y revisión humana cuando sea necesario.
   - [ ] Verificar despliegues y operacionalizar el monitoreo y la gestión de incidentes con agentes.
 
 - [ ] **3.4 Personalizar el agente y su entorno** — Personalizar un agente y su entorno ayuda a proporcionarle el contexto y las herramientas que necesita para trabajar eficazmente.
-  - [ ] Configurar habilidades (*skills*), complementos (*plugins*), servidores MCP, *hooks*, herramientas y permisos del agente.
+  - [x] Configurar habilidades (*skills*), complementos (*plugins*), servidores MCP, *hooks*, herramientas y permisos del agente.
   - [ ] Mantener contexto permanente del código, incluyendo supuestos arquitectónicos, convenciones y patrones de acceso a datos.
   - [ ] Preservar el estado entre sesiones y agentes, capturar aprendizajes y eliminar la deuda técnica generada por los agentes.
 
