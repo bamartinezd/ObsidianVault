@@ -96,10 +96,10 @@ Extraído del contenido de la página (no fue necesario usar Playwright). Últim
   - [x] Tomar decisiones basadas en el contexto del proyecto: visión del producto, viabilidad, riesgos, esfuerzo y presupuesto.
   - [ ] Definir métricas para medir e impulsar mejoras en el producto.
 
-- [ ] **4.2 Tomar decisiones de producto** — Desarrollar criterio de producto, negocio y empatía con el usuario ayuda a construir soluciones que satisfagan necesidades reales.
-  - [ ] Desarrollar sentido de producto, diseño y negocio.
-  - [ ] Construir empatía y comprensión del usuario mediante entrevistas, encuestas, pruebas A/B y análisis de comportamiento.
-  - [ ] Equilibrar necesidades del usuario, viabilidad, oportunidad de mercado y economía.
+- [x] **4.2 Tomar decisiones de producto** — Desarrollar criterio de producto, negocio y empatía con el usuario ayuda a construir soluciones que satisfagan necesidades reales.
+  - [x] Desarrollar sentido de producto, diseño y negocio.
+  - [x] Construir empatía y comprensión del usuario mediante entrevistas, encuestas, pruebas A/B y análisis de comportamiento.
+  - [x] Equilibrar necesidades del usuario, viabilidad, oportunidad de mercado y economía.
 
 - [ ] **4.3 Comunicar y liderar** — Las habilidades de comunicación y liderazgo ayudan a alinear a las partes interesadas y guiar a la organización.
   - [ ] Alinear a las partes interesadas y comunicarse claramente con usuarios y tomadores de decisiones.
