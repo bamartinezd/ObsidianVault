@@ -153,68 +153,68 @@ Extracted from page content (Playwright was not necessary). Last updated on page
 ### 02. Software engineering fundamentals
 *Understanding software fundamentals to steer coding agents toward the right tradeoffs in latency, reliability, maintainability, and cost for your application.*
 
-- [ ] **2.1 Building full-stack applications** — Understanding the full application stack helps you use coding agents to work across front-end and back-end systems and make informed decisions.
-  - [ ] Learn front-end and back-end fundamentals, such as UI components, APIs, authentication, state management, data persistence, and security.
-  - [ ] Build across the stack with coding agents while understanding how each layer works.
+- [x] **2.1 Building full-stack applications** — Understanding the full application stack helps you use coding agents to work across front-end and back-end systems and make informed decisions.
+  - [x] Learn front-end and back-end fundamentals, such as UI components, APIs, authentication, state management, data persistence, and security.
+  - [x] Build across the stack with coding agents while understanding how each layer works.
 
-- [ ] **2.2 Managing data** — Knowing how to manage data helps you choose the right data models, storage, and infrastructure, keep data clean, consistent, and compliant, and give your AI systems relevant context.
-  - [ ] Learn data modeling, access patterns, storage types, transactions and concurrency.
-  - [ ] Maintain data quality, privacy, and governance, and adapt your data architecture as your application and its AI systems evolve.
+- [x] **2.2 Managing data** — Knowing how to manage data helps you choose the right data models, storage, and infrastructure, keep data clean, consistent, and compliant, and give your AI systems relevant context.
+  - [x] Learn data modeling, access patterns, storage types, transactions and concurrency.
+  - [x] Maintain data quality, privacy, and governance, and adapt your data architecture as your application and its AI systems evolve.
 
-- [ ] **2.3 Designing system architectures** — Understanding the software components and your application's needs helps you design the right architecture and choose the stack, then evolve them over time.
-  - [ ] Study system decomposition, state placement, platform choices, and monolith-versus-microservices tradeoffs.
-  - [ ] Evaluate stack options through experiments and evolve architectures as projects mature.
+- [x] **2.3 Designing system architectures** — Understanding the software components and your application's needs helps you design the right architecture and choose the stack, then evolve them over time.
+  - [x] Study system decomposition, state placement, platform choices, and monolith-versus-microservices tradeoffs.
+  - [x] Evaluate stack options through experiments and evolve architectures as projects mature.
 
-- [ ] **2.4 Making systems secure and reliable** — Knowing how to test your system, design around failures, and build security in from the start helps you create software that behaves correctly and has fewer vulnerabilities.
-  - [ ] Develop testing strategies with appropriate unit and integration tests.
-  - [ ] Design for failure with graceful degradation and a limited blast radius.
-  - [ ] Apply security practices early, using AI tools to check code, dependencies, and cloud configuration for vulnerabilities.
+- [x] **2.4 Making systems secure and reliable** — Knowing how to test your system, design around failures, and build security in from the start helps you create software that behaves correctly and has fewer vulnerabilities.
+  - [x] Develop testing strategies with appropriate unit and integration tests.
+  - [x] Design for failure with graceful degradation and a limited blast radius.
+  - [x] Apply security practices early, using AI tools to check code, dependencies, and cloud configuration for vulnerabilities.
 
-- [ ] **2.5 Scaling and operating in production** — Knowing how to deploy, operate, and scale your software helps you serve real users reliably and keep the system maintainable as it evolves.
-  - [ ] Configure deployment environments, choose release strategies, and automate deployments with CI/CD.
-  - [ ] Practice observability, alerting, and incident response, and scale with load balancing, sharding, and replication.
-  - [ ] Use version control and code reviews, maintain dependencies, and manage technical debt.
+- [x] **2.5 Scaling and operating in production** — Knowing how to deploy, operate, and scale your software helps you serve real users reliably and keep the system maintainable as it evolves.
+  - [x] Configure deployment environments, choose release strategies, and automate deployments with CI/CD.
+  - [x] Practice observability, alerting, and incident response, and scale with load balancing, sharding, and replication.
+  - [x] Use version control and code reviews, maintain dependencies, and manage technical debt.
 
 ### 03. Using coding agents
 *Knowing how to customize, direct, and orchestrate coding agents to optimize your development workflow while retaining control over what gets built and whether it passes the quality bar.*
 
-- [ ] **3.1 Directing the workflow** — Directing the workflow helps you drive projects forward while strategically deciding how much effort to spend across planning, architecture, and agent delegation.
-  - [ ] Balance speed, cost, and technical risk when directing the coding workflow.
-  - [ ] Strategically choose how much time and effort to invest in research, planning, iteration, and review, and how much autonomy to give to agents.
-  - [ ] Plan the work by defining clear measurable end-goals, decomposing the work into verifiable pieces, and creating planning artifacts.
+- [x] **3.1 Directing the workflow** — Directing the workflow helps you drive projects forward while strategically deciding how much effort to spend across planning, architecture, and agent delegation.
+  - [x] Balance speed, cost, and technical risk when directing the coding workflow.
+  - [x] Strategically choose how much time and effort to invest in research, planning, iteration, and review, and how much autonomy to give to agents.
+  - [x] Plan the work by defining clear measurable end-goals, decomposing the work into verifiable pieces, and creating planning artifacts.
 
-- [ ] **3.2 Enabling agent autonomy** — Enabling agent autonomy lets agents take on work independently while you maintain quality and control.
-  - [ ] Choose the right autonomy level for agents, ranging from human-guided steering to fully-autonomous execution of long-running tasks.
-  - [ ] Scale autonomous work by managing context and recording key learnings, and/or by orchestrating parallel agents.
-  - [ ] Apply appropriate permissions and safeguards to limit risk of data loss, leaks or other damage.
+- [x] **3.2 Enabling agent autonomy** — Enabling agent autonomy lets agents take on work independently while you maintain quality and control.
+  - [x] Choose the right autonomy level for agents, ranging from human-guided steering to fully-autonomous execution of long-running tasks.
+  - [x] Scale autonomous work by managing context and recording key learnings, and/or by orchestrating parallel agents.
+  - [x] Apply appropriate permissions and safeguards to limit risk of data loss, leaks or other damage.
 
-- [ ] **3.3 Reviewing the work** — Reviewing agent work ensures the work meets functional, behavioral, security, and reliability standards.
-  - [ ] Design task-appropriate testing, validation, eval sets, and error analysis.
-  - [ ] Combine automated tests, agentic code review, security and architecture audits, and human review when needed.
-  - [ ] Verify deployments and operationalize monitoring and incident management with agents.
+- [x] **3.3 Reviewing the work** — Reviewing agent work ensures the work meets functional, behavioral, security, and reliability standards.
+  - [x] Design task-appropriate testing, validation, eval sets, and error analysis.
+  - [x] Combine automated tests, agentic code review, security and architecture audits, and human review when needed.
+  - [x] Verify deployments and operationalize monitoring and incident management with agents.
 
-- [ ] **3.4 Customizing the agent and its environment** — Customizing an agent and its environment helps provide the agent with the context and tools it needs to work effectively.
-  - [ ] Configure agent skills, plugins, MCP servers, hooks, tools, and permissions.
-  - [ ] Maintain standing codebase context, including architectural assumptions, conventions, and data access patterns.
-  - [ ] Preserve state across sessions and agents, capture learnings, and remove agent-generated technical debt.
+- [x] **3.4 Customizing the agent and its environment** — Customizing an agent and its environment helps provide the agent with the context and tools it needs to work effectively.
+  - [x] Configure agent skills, plugins, MCP servers, hooks, tools, and permissions.
+  - [x] Maintain standing codebase context, including architectural assumptions, conventions, and data access patterns.
+  - [x] Preserve state across sessions and agents, capture learnings, and remove agent-generated technical debt.
 
-- [ ] **3.5 Coding agent foundations** — Understanding how coding agents work helps you recognize their limitations and failure modes.
-  - [ ] Learn how agents search codebases, manage context, use tools, interact with subagents, and how the agent harness works.
-  - [ ] Study common failure modes like overengineering, stopping short of a goal, etc. and intervene when an agent goes off track.
+- [x] **3.5 Coding agent foundations** — Understanding how coding agents work helps you recognize their limitations and failure modes.
+  - [x] Learn how agents search codebases, manage context, use tools, interact with subagents, and how the agent harness works.
+  - [x] Study common failure modes like overengineering, stopping short of a goal, etc. and intervene when an agent goes off track.
 
 ### 04. Shaping the build
 *Owning projects end-to-end and driving rapid build loops to deliver real value through sharp product sense, high agency, and cross-functional leadership.*
 
-- [ ] **4.1 Driving the build loop** — Driving the build loop means keeping product development moving while using each iteration in the development cycle to learn and reduce uncertainty.
-  - [ ] Move quickly from ideas to prototypes (MVPs), and finally to production systems.
-  - [ ] Ship in small batches and use user feedback or technical experiments to guide next steps.
-  - [ ] Make decisions based on project context like product vision, feasibility, risks, effort, and budget.
-  - [ ] Define metrics to measure and drive improvements in the product.
+- [x] **4.1 Driving the build loop** — Driving the build loop means keeping product development moving while using each iteration in the development cycle to learn and reduce uncertainty.
+  - [x] Move quickly from ideas to prototypes (MVPs), and finally to production systems.
+  - [x] Ship in small batches and use user feedback or technical experiments to guide next steps.
+  - [x] Make decisions based on project context like product vision, feasibility, risks, effort, and budget.
+  - [x] Define metrics to measure and drive improvements in the product.
 
-- [ ] **4.2 Making product decisions** — Cultivating sharp product sense, business sense, and user empathy helps you build solutions that meet real user needs.
-  - [ ] Develop product, design, and business sense.
-  - [ ] Build user empathy and understanding through interviews, surveys, A/B tests, and behavioral analysis.
-  - [ ] Balance user needs, feasibility, market opportunity, and economics.
+- [x] **4.2 Making product decisions** — Cultivating sharp product sense, business sense, and user empathy helps you build solutions that meet real user needs.
+  - [x] Develop product, design, and business sense.
+  - [x] Build user empathy and understanding through interviews, surveys, A/B tests, and behavioral analysis.
+  - [x] Balance user needs, feasibility, market opportunity, and economics.
 
 - [ ] **4.3 Communicating and leading** — Communication and leadership skills help you align cross-functional stakeholders, explain technical feasibility, and guide the broader organization forward.
   - [ ] Align stakeholders and communicate clearly with users and decision-makers.
